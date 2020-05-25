@@ -13,5 +13,5 @@
 
     AQUI ESTA UMA APLICACAO COMPLETA FEITA COM A LINGUAGEM DE PROGRAMACAO JAVASCRIPT E AS TEC
     NOLOGIAS QUE ORBITAM ESSA LINGUAGEM: Node React Reactnative 
-    
+    ![gif](https://user-images.githubusercontent.com/45858897/82826539-b7d02f80-9e83-11ea-9d44-afb10b28e9be.gif)
     
